@@ -7,16 +7,3 @@
 4. use 'python main.py' to execute the file
 5. http://127.0.0.1:5000/rates?date_from=2016-01-01&date_to=2016-01-02&origin=CNGGZ&destination=EETLL 
 6. Use URL mentioned above to check the sample output
-7. for the URL in mentioned ini 5, the output goes as mentioned below:
-   {
-  "prices": [
-    {
-      "average_price": "1154.6666666666666667",
-      "day": "2016-01-01"
-    },
-    {
-      "average_price": "1154.6666666666666667",
-      "day": "2016-01-02"
-    }
-  ]
-} 
